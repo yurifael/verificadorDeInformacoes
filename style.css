@@ -42,6 +42,9 @@ main{
     box-shadow: 0 6px 12px rgba(0,0,0, 0.15);
     backface-visibility: hiddend;
 }
+.cartao-verso{
+    transform: rotateY(180deg);
+}
 
 
 
